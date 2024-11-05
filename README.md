@@ -4,6 +4,12 @@ This repository is a companion page for the following paper:
 
 It contains all the material required for replicating the study, including: stabilization, camera calibration, object tracking using a customized CSRT tracker and distance calculation to the object using horizon detection.
 
+## Results
+The result of the object tracking and distance calculation can be seen below (compressed version), or [here](https://github.com/s-eeckhout/ipcv-project/blob/main/buoy_tracking.mp4).<br>
+
+https://github.com/user-attachments/assets/d8be1255-7211-43ee-8489-0db18945535a
+
+
 ## Quick start
 
 ### Getting started
@@ -30,27 +36,6 @@ This is the root directory of the repository. The directory is structured as fol
      |--- documentation/                   Contains the figures presented in the paper.
      |
      |--- data/                            Contains coordinates of the detected object, manual ground truth and detected distances.
-
-
-## How to cite us
-The scientific article describing design, execution, and main results of this study is available [here](https://github.com/s-eeckhout/ipcv-project/report.pdf).<br> 
-
-
-https://github.com/user-attachments/assets/ea5a76f9-f817-418a-b528-1d718c074f36
-
-```
-@article{,
-  title={Man Overboard Object Tracking},
-  author={Eeckhout, Sanne and Phadte, Pratik and Ramalingan, Gokul and Gad, Hussein Hesham Hassan Abdelaziz.},
-  journal={Image Processing and Computer Vision},
-  year={2024},
-  publisher={University Twente}
-
-
-
-
-}
-```
 
 ## Repository license
 [MIT license](https://opensource.org/licenses/MIT)
