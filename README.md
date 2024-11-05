@@ -34,7 +34,9 @@ This is the root directory of the repository. The directory is structured as fol
 
 ## How to cite us
 The scientific article describing design, execution, and main results of this study is available [here](https://github.com/s-eeckhout/ipcv-project/report.pdf).<br> 
-If this study is helping your research, consider to cite it is as follows, thanks!
+
+
+https://github.com/user-attachments/assets/ea5a76f9-f817-418a-b528-1d718c074f36
 
 ```
 @article{,
@@ -43,6 +45,10 @@ If this study is helping your research, consider to cite it is as follows, thank
   journal={Image Processing and Computer Vision},
   year={2024},
   publisher={University Twente}
+
+
+
+
 }
 ```
 
